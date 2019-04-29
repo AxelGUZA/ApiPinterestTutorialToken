@@ -62,15 +62,25 @@ Puis dans un seconde temps nous allons voir les information à remplir :
 vous-vous retrouvez devant cette pop-up qui vous affiche les information suivant :
 
 Token Name : Token  exemple
+***
 Grant Type : Authorization Code
+***
 Callback URL : https://exemple.com/ (Atention c'est l'url de callback que vous avez mit dans Pinterest)
+***
 Auth URL : https://api.pinterest.com/oauth/
+***
 Access Token URL :https://api.pinterest.com/v1/oauth/token
+***
 Client ID : Votre ID  d'application  Pinterest
+***
 Client Secret : Votre ID privée  d'application  Pinterest
+***
 Scope : read_public,write_public,read_relationship,write_relationships (Ce que nous allons récurpérer comme information en JSON [plus informations](https://developers.pinterest.com/docs/api/overview/? 
+***
 State : State
+***
 Client Authentication : (laisser par défaut)
+***
 ![Postman-getToken](https://user-images.githubusercontent.com/38752522/56871606-ba373e80-6a63-11e9-9a01-c88136706da5.PNG)
 
 Maintenant il va vous demandez de accepter les conditions
