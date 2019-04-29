@@ -75,7 +75,7 @@ Client ID : Votre ID  d'application  Pinterest
 ***
 Client Secret : Votre ID privée  d'application  Pinterest
 ***
-Scope : read_public,write_public,read_relationship,write_relationships (Ce que nous allons récurpérer comme information en JSON [plus informations](https://developers.pinterest.com/docs/api/overview/? 
+Scope : read_public,write_public,read_relationship,write_relationships (Ce que nous allons récurpérer comme information en JSON [plus informations](https://developers.pinterest.com/docs/api/overview/?) 
 ***
 State : State
 ***
@@ -91,6 +91,17 @@ Et voila votre token est créer et prêt à être utilisé :
 ![Postman-token](https://user-images.githubusercontent.com/38752522/56871765-4138e680-6a65-11e9-9330-16b9303ac04f.PNG)
 
 
+
+## Comment ça marche :
+
+Maintenant que vous avez le token Access rien de plus simple, il ne vous reste plus qu'a remplir.
+URL suivant : https://api.pinterest.com/v1/me/pins/?access_token=<TOKEN ACCESS>&limit=<Votre limite de poste>&fields=<CE que vous voulez avoir>
+    
+     
+ [exemple](https://developers.pinterest.com/docs/api/pins/?) 
+
+
+
 Maintenant à vous de jouer !
 
 ## Erreur fréquente :
@@ -100,10 +111,5 @@ La solution :
 ![Postman-erreur solution](https://user-images.githubusercontent.com/38752522/56871873-f4094480-6a65-11e9-822a-4d633cdec20f.PNG)
 
 Forum sur le sujet  :https://socialchamps.com/topic/why-i-cannot-sign-in-to-pinterest/
-
-
-
-
-
 
 
