@@ -22,7 +22,9 @@ Après vous avoir connectez vous devez vous rendre sur [Getting Started](https:/
 ## Parti II Création de notre app
 
 1. Allez dans [Apps](https://developers.pinterest.com/apps/).
-2. Accepter les [termes](https://developers.pinterest.com/terms/) et la [politique](https://developers.pinterest.com/policy/) de pinterest et enfin Créer l'application
+![Insta-création app](https://user-images.githubusercontent.com/38752522/56871902-46e2fc00-6a66-11e9-8a6b-62980a5d4609.PNG)
+2. Accepter les [termes](https://developers.pinterest.com/terms/) et la [politique](https://developers.pinterest.com/policy/) de pinterest et enfin Créer l'application.
+![Insta-création Police](https://user-images.githubusercontent.com/38752522/56871901-46e2fc00-6a66-11e9-80b3-f58afd1049f0.PNG)
 3. Donnez un nom(il ne pourra pas être changer après) a votre application avec une légère description, cela est plus pour vous et les suivant qui réutiliseron votre application. Puis créer
 
 Voila vous avez créer une application Pinterest. Mais cela n'est pas encore fini il faut maintenant récupérer le token Access pour pouvoir avoir le Json.
