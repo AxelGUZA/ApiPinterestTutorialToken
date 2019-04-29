@@ -1,6 +1,7 @@
+# Tutorial [ENGLISH VERSION](https://developers.pinterest.com/docs/api/overview/?)
+
 # FR Version| Bonjour & bienvenue sur le tutorial pour API Pinterest pour avoir unToken
 
-Tutorial [ENGLISH VERSION](https://developers.pinterest.com/docs/api/overview/?)
 
 Documentation et tutorial pour avoir l'acces à un token pinterest 
 
