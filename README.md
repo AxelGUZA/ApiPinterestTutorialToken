@@ -115,5 +115,6 @@ La solution :
 
 Forum sur le sujet  :https://socialchamps.com/topic/why-i-cannot-sign-in-to-pinterest/
 
-
+Vous pouvez Allez voir aussi pour AUTRE API :
 # API FACEBOOK : https://github.com/AxelGUZA/tutorialAPIFacebook/
+# API INSTAGRAM :https://github.com/AxelGUZA/ApiInstagramTutorial
